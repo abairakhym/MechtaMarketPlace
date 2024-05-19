@@ -8,7 +8,6 @@
 - Retrofit
 - Room
 - Glide
-- Lottie
 - Chucker
 - Navigation Component: NavHostFragment, Bottom Navigation
 - View Binding
