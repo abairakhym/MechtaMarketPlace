@@ -1,6 +1,6 @@
 package kz.dream.marketplace
 
-import kz.dream.marketplace.model.MechtaNetworkDataSource
+import kz.dream.marketplace.model.remote.MechtaNetworkDataSource
 import retrofit2.http.GET
 import retrofit2.http.Query
 

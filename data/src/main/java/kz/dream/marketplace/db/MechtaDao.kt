@@ -5,7 +5,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import kz.dream.marketplace.db.model.ItemLocalDataSource
+import kz.dream.marketplace.model.local.ItemLocalDataSource
 
 @Dao
 interface MechtaDao {

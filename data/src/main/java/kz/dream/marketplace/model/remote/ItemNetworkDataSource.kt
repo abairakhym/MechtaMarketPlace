@@ -1,4 +1,4 @@
-package kz.dream.marketplace.model
+package kz.dream.marketplace.model.remote
 
 data class ItemNetworkDataSource(
     val id: Int,

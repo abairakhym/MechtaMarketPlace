@@ -2,7 +2,7 @@ package kz.dream.marketplace.mapper.remote
 
 import kz.dream.marketplace.entity.ItemEntity
 import kz.dream.marketplace.mapper.Mapper
-import kz.dream.marketplace.model.ItemNetworkDataSource
+import kz.dream.marketplace.model.remote.ItemNetworkDataSource
 
 class ItemMapper: Mapper<ItemEntity, ItemNetworkDataSource> {
     override fun mapFromEntity(type: ItemEntity) = ItemNetworkDataSource(

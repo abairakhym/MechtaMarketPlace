@@ -1,6 +1,6 @@
 package kz.dream.marketplace.mapper.local
 
-import kz.dream.marketplace.db.model.ItemLocalDataSource
+import kz.dream.marketplace.model.local.ItemLocalDataSource
 import kz.dream.marketplace.entity.ItemEntity
 import kz.dream.marketplace.mapper.Mapper
 

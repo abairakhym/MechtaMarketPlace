@@ -2,7 +2,7 @@ package kz.dream.marketplace.mapper.remote
 
 import kz.dream.marketplace.entity.DataEntity
 import kz.dream.marketplace.mapper.Mapper
-import kz.dream.marketplace.model.DataNetworkDataSource
+import kz.dream.marketplace.model.remote.DataNetworkDataSource
 
 class DataMapper(private val mapper: ItemMapper): Mapper<DataEntity, DataNetworkDataSource> {
     override fun mapFromEntity(type: DataEntity) = DataNetworkDataSource(

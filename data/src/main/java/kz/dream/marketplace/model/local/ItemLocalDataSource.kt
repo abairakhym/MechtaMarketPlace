@@ -1,4 +1,4 @@
-package kz.dream.marketplace.db.model
+package kz.dream.marketplace.model.local
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
